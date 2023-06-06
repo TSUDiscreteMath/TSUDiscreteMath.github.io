@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e47ad19d.css",
-    "main.js": "/static/js/main.d61efbe2.js",
+    "main.css": "/static/css/main.c36ed600.css",
+    "main.js": "/static/js/main.cce4b1b5.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Rubik-Regular.ttf": "/static/media/Rubik-Regular.f887c9f4ac165f5e1912.ttf",
     "static/media/logo_tsu_black.png": "/static/media/logo_tsu_black.bd3e8a3ec515920982d1.png",
@@ -9,12 +9,12 @@
     "static/media/3.png": "/static/media/3.1f3c53f9d665b9096ad0.png",
     "index.html": "/index.html",
     "static/media/back.svg": "/static/media/back.d1b57575113f0971fe88292b6dea3821.svg",
-    "main.e47ad19d.css.map": "/static/css/main.e47ad19d.css.map",
-    "main.d61efbe2.js.map": "/static/js/main.d61efbe2.js.map",
+    "main.c36ed600.css.map": "/static/css/main.c36ed600.css.map",
+    "main.cce4b1b5.js.map": "/static/js/main.cce4b1b5.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e47ad19d.css",
-    "static/js/main.d61efbe2.js"
+    "static/css/main.c36ed600.css",
+    "static/js/main.cce4b1b5.js"
   ]
 }
